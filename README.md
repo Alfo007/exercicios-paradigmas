@@ -1,1 +1,1 @@
-# exercicios-paradigmas
+# exercícios-paradigmas
